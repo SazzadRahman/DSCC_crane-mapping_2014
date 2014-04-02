@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: DSCC_crane_mapping_2014.aux
+The style file: asmems4.bst
+Illegal, another \bibdata command---line 78 of file DSCC_crane_mapping_2014.aux
+ : \bibdata
+ :         {bibtex_Yoshida:06}
+I'm skipping whatever remains of this command
+Database file #1: asme2e.bib
+Warning--I didn't find a database entry for "beavers"
+Warning--I didn't find a database entry for "cicb"
+Warning--I didn't find a database entry for "Smith"
+Warning--I didn't find a database entry for "Seering"
+Warning--I didn't find a database entry for "w.sing"
+Warning--I didn't find a database entry for "Singer"
+Warning--I didn't find a database entry for "Sorensen"
+Warning--I didn't find a database entry for "Khalid"
+Warning--I didn't find a database entry for "Kim"
+Warning--I didn't find a database entry for "changwan"
+Warning--I didn't find a database entry for "murray"
+Warning--I didn't find a database entry for "felix"
+Warning--I didn't find a database entry for "stiller"
+Warning--I didn't find a database entry for "klein"
+Warning--I didn't find a database entry for "km"
+Warning--I didn't find a database entry for "sebastian"
+Warning--I didn't find a database entry for "dissa"
+Warning--I didn't find a database entry for "Aviad"
+Warning--I didn't find a database entry for "Yang"
+Warning--I didn't find a database entry for "Yoshida:06"
+You've used 0 entries,
+            1984 wiz_defined-function locations,
+            514 strings with 3661 characters,
+and the built_in function-call counts, 18 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There was 1 error message)
